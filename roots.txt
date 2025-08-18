@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ritesh23s.github.io/sumanicai/sitemap.xml
